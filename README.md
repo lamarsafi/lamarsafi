@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=peleiwnl)
+![Profile Views](https://komarev.com/ghpvc/?username=lamarsafi)
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNrazNrN3p0MXpvdW93Z2RidTk5ZnRlbHEwbWc3a3d6cndqamw5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Coding Gif" width="300"/>
@@ -19,7 +19,9 @@
 
 <h3 align="center">A software developer from Manchester</h3>
 
-![Lamar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=peleiwnl&show_icons=true&theme=transparent)
+- 🎓 Just graduated from a Software Engineering degree at Manchester Metropolitan University with a 2:1
+
+![Lamar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamarsafi&show_icons=true&theme=transparent)
 
 #### Languages and Tools:
 
@@ -78,4 +80,10 @@
   </a>
 </p>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lamarsafi/lamarsafi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lamarsafi/lamarsafi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lamarsafi/lamarsafi/output/github-contribution-grid-snake.svg">
+</picture>
 
