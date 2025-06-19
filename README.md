@@ -21,8 +21,6 @@
 
 - 🎓 Just graduated from a Software Engineering degree at Manchester Metropolitan University with a 2:1
 
-![Lamar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamarsafi&show_icons=true&theme=transparent)
-
 #### Languages and Tools:
 
 <p>
