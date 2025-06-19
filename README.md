@@ -19,8 +19,6 @@
 
 <h3 align="center">A software developer from Manchester</h3>
 
-- 🎓 Just graduated from a Software Engineering degree at Manchester Metropolitan University with a 2:1
-
 ![Lamar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=peleiwnl&show_icons=true&theme=transparent)
 
 #### Languages and Tools:
@@ -80,10 +78,4 @@
   </a>
 </p>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peleiwnl/peleiwnl/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peleiwnl/peleiwnl/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/peleiwnl/peleiwnl/output/github-contribution-grid-snake.svg">
-</picture>
 
