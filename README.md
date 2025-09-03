@@ -15,7 +15,11 @@
 
 <h3 align="center">A software developer from Manchester</h3>
 
-- 🎓 Just graduated from a Software Engineering degree at Manchester Metropolitan University with a 2:1
+- 🎓 Software Engineering graduate (2:1) from Manchester Metropolitan University  
+- 💻 Passionate about full-stack development and exploring cloud technologies  
+- 🌱 Currently learning TypeScript to level up my JavaScript/Node.js skills  
+- 🚀 Building projects with Node.js, always experimenting with new ideas  
+- ⚡ Fun fact: I enjoy tackling coding challenges and learning something new every day 
 
 #### Languages and Tools:
 
