@@ -1,9 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=lamarsafi)
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNrazNrN3p0MXpvdW93Z2RidTk5ZnRlbHEwbWc3a3d6cndqamw5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Coding Gif" width="300"/>
-</p>
-
 
 <p align="center">
   <a href="mailto:lamarsafi2@gmail.com" target="_blank">
